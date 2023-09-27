@@ -1,0 +1,26 @@
+:root{
+    --cor-principal1:#6278F7;
+    --cor-principal2:#95FFD4;
+    --cor-principal3:#AFAFAF;
+    --fundo1:#D9F7E9;
+    --fundo2:#E8F8FF;
+    --fundo3:#F0F8E2;
+    --fundo4:#FDE7E8;
+    --fundo5:#FAE9F5;
+    --fundo6:#FFF5D9;
+    --fundo7:#FFEEDF;
+    --destaque-programacao:#57C278;
+    --destaque-frontend:#82CFFA;
+    --destaque-datascience:#A6D157;
+    --destaquedevops:#E06B69;
+    --destaqueuxdesign:#DB6EBF;
+    --destaquemobile:#FFBA05;
+    --destaqueinovacaogestao:#FF8A29;
+}
+.banner{
+    background-color: #6278F7;
+    text-align: center;
+}
+.banner img { 
+    max-width: 100%;
+}
